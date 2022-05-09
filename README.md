@@ -6,11 +6,12 @@
 Several hours and nights have been spent on... :chart_with_upwards_trend:
  </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=UO270762&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
+![pc](https://user-images.githubusercontent.com/71763975/167399230-71b2b35c-ab5a-41a3-826a-a8a1e06d3c1d.gif)
 
 <p align="center">
-  <img src="90f.gif" alt="animated" />
+  <img src="https://c.tenor.com/KsvZ1G5XL1UAAAAC/drake-computer.gif" alt="animated" />
 </p>
 
 <p align="center">
