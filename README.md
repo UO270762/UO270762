@@ -1,6 +1,6 @@
-<p align="center">
-### :alien: Hello to the people with the curse of software development :alien:</p>
-</p>
+<h1 align="center">
+:alien: Hello to the people with the curse of software development :alien:</p>
+</h1>
 
 <p align="center">
 Several hours and nights have been spent on... :chart_with_upwards_trend:
@@ -10,7 +10,7 @@ Several hours and nights have been spent on... :chart_with_upwards_trend:
 </p>
 
 <p align="center">
-  <img src="71763975/167398266-b1d6f819-e9c2-4d1f-8813-f10c320c71cb.gif.gif" alt="animated" />
+  <img src="90f.gif" alt="animated" />
 </p>
 
 <p align="center">
