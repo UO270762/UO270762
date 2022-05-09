@@ -10,7 +10,7 @@ Several hours and nights have been spent on... :chart_with_upwards_trend:
 </p>
  
  <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=UO270762&show_icons=true&theme=radical" alt="my Github Stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=UO270762&show_icons=true&theme=merko" alt="my Github Stats"/>
  </p>
 
 <p align="center">
