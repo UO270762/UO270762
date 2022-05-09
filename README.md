@@ -18,6 +18,6 @@ Several hours and nights have been spent on... :chart_with_upwards_trend:
  </p>
  
  <p align="center">
-  <img src="https://github.com/UO270762/UO270762/blob/output/github-contribution-grid-snake.gif" alt="animated" />
+  <img src="https://github.com/UO270762/UO270762/blob/output/github-contribution-grid-snake.svg" alt="animated" />
 </p>
 
