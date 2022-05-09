@@ -17,5 +17,7 @@ Several hours and nights have been spent on... :chart_with_upwards_trend:
 :snake:Have a break, see the snake:snake:
  </p>
  
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+ <p align="center">
+  <img src="https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg" alt="animated" />
+</p>
 
