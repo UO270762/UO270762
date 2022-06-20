@@ -15,8 +15,12 @@ Several hours and nights have been spent on... :chart_with_upwards_trend:
 
 <p align="center">
   Connect with me!
- <a href="https://www.linkedin.com/in/iv%C3%A1nvallesoto" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
 </p>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/iv%C3%A1nvallesoto" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
+ </p>
+
 
 <p align="center">
 Languages and Tools:
