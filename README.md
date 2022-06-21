@@ -1,5 +1,5 @@
 <h1 align="center">
-:alien: Hello to the people with the curse of software development :alien:</p>
+:wave: Hello there, hope you find something interesting! :wave: </p>
 </h1>
 
 <p align="center">
